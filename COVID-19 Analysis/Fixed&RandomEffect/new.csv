@@ -1,0 +1,1560 @@
+Id,location,country,gender,age,visiting Wuhan,from Wuhan,death
+1,"Shenzhen, Guangdong",China,male,61-70,1,0,0
+1,Shanghai,China,female,51-60,0,1,0
+1,Zhejiang,China,male,41-50,0,1,0
+1,Tianjin,China,female,51-60,1,0,0
+1,Tianjin,China,male,51-60,0,0,0
+1,Chongqing,China,female,41-50,0,1,0
+1,Sichuan,China,male,31-40,0,1,0
+1,Beijing,China,male,31-40,1,0,0
+1,Beijing,China,male,31-40,1,0,0
+1,Beijing,China,male,51-60,1,0,0
+1,Beijing,China,female,20-Nov,1,0,0
+1,Beijing,China,female,31-40,1,0,0
+1,Shandong,China,male,31-40,1,0,0
+1,Yunnan,China,male,51-60,0,1,0
+1,Sichuan,China,male,51-60,0,1,0
+1,Jiangxi,China,male,51-60,1,0,0
+1,Jiangxi,China,male,41-50,1,0,0
+1,Macau,China,female,51-60,0,1,0
+1,Liaoning,China,male,31-40,1,0,0
+1,Liaoning,China,male,31-40,1,0,0
+1,Fujian,China,male,61-70,1,0,0
+1,Guizhou,China,male,51-60,0,1,0
+1,Shanxi,China,female,21-30,1,0,0
+1,Sichuan,China,male,31-40,1,0,0
+1,Sichuan,China,male,20-Nov,1,0,0
+1,Sichuan,China,male,21-30,1,0,0
+1,Ningxia,China,female,61-70,1,0,0
+1,Guangxi,China,male,41-50,0,1,0
+1,Guangxi,China,female,31-40,0,0,0
+1,Henan,China,male,21-30,0,1,0
+1,Henan,China,male,51-60,1,0,0
+1,Henan,China,male,61-70,0,1,0
+1,Henan,China,male,31-40,0,1,0
+1,Shandong,China,male,71-80,0,0,0
+1,Hebei,China,male,41-50,0,1,0
+1,Beijing,China,male,41-50,1,0,0
+1,Beijing,China,female,31-40,1,0,0
+1,Beijing,China,female,31-40,0,1,0
+1,Beijing,China,male,31-40,0,1,0
+1,Jiangsu,China,male,61-70,1,0,0
+1,Heilongjiang,China,male,61-70,1,0,0
+1,Guangxi,China,female,61-70,0,1,0
+1,Guangxi,China,male,41-50,0,1,0
+1,Guangxi,China,male,41-50,0,1,0
+1,Sichuan,China,male,41-50,1,0,0
+1,Sichuan,China,male,31-40,1,0,0
+1,Sichuan,China,female,31-40,1,0,0
+1,Jilin,China,male,61-70,1,0,0
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,71-80,0,1,1
+1,"Wuhan, Hubei",China,female,41-50,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,female,81-90,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,female,71-80,0,1,1
+1,"Wuhan, Hubei",China,male,51-60,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,female,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,female,41-50,0,1,1
+1,Liaoning,China,male,31-40,1,0,0
+1,Hunan,China,male,41-50,1,0,0
+1,Hunan,China,female,61-70,1,0,0
+1,Hunan,China,male,51-60,1,0,0
+1,Hunan,China,female,21-30,1,0,0
+1,Hunan,China,female,41-50,1,0,0
+1,Guizhou,China,male,41-50,0,0,0
+1,Gansu,China,male,41-50,0,0,0
+1,Heilongjiang,China,male,41-50,1,0,0
+1,Shanxi (陕西),China,female,31-40,1,0,0
+1,Shanxi (陕西),China,male,21-30,1,0,0
+1,Shanxi (陕西),China,male,41-50,1,0,0
+1,Xinjiang,China,male,51-60,1,0,0
+1,Xinjiang,China,male,51-60,1,0,0
+1,Yunnan,China,male,41-50,0,1,0
+1,Tianjin,China,female,81-90,0,0,0
+1,Hubei,China,female,61-70,0,0,1
+1,Hubei,China,male,31-40,0,0,1
+1,Hubei,China,male,71-80,0,0,1
+1,Hubei,China,female,61-70,0,0,1
+1,Hubei,China,male,81-90,0,0,1
+1,Hubei,China,female,61-70,0,0,1
+1,Hubei,China,male,41-50,0,0,1
+1,Liaoning,China,male,21-30,1,0,0
+1,Inner Mongolia,China,female,21-30,0,1,0
+1,Tianjin,China,male,41-50,1,0,0
+1,Beijing,China,male,21-30,1,0,0
+1,Shaanxi,China,female,51-60,1,0,0
+1,Shaanxi,China,male,31-40,1,0,0
+1,Shanghai,China,female,31-40,0,1,0
+1,Tianjin,China,female,31-40,1,0,0
+1,Yunnan,China,male,41-50,1,0,0
+1,Yunnan,China,male,61-70,0,1,0
+1,Yunnan,China,female,71-80,0,0,0
+1,"Wuhan, Hubei",China,male,71-80,0,1,1
+1,"Wuhan, Hubei",China,male,71-80,0,1,1
+1,"Wuhan, Hubei",China,male,51-60,0,1,1
+1,"Wuhan, Hubei",China,male,81-90,0,1,1
+1,"Wuhan, Hubei",China,female,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,51-60,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,71-80,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,61-70,0,1,1
+1,"Wuhan, Hubei",China,male,51-60,0,1,1
+1,"Wuhan, Hubei",China,female,61-70,0,1,1
+1,"Wuhan, Hubei",China,female,81-90,0,1,1
+1,"Wuhan, Hubei",China,female,41-50,0,1,1
+1,"Wuhan, Hubei",China,female,Less than 10,0,1,1
+1,"Hechi, Guangxi",China,female,51-60,1,0,0
+1,"Hechi, Guangxi",China,male,51-60,1,0,0
+1,Beijing,China,female,61-70,1,0,0
+1,Tianjin,China,male,31-40,1,0,0
+1,Tianjin,China,male,41-50,1,0,0
+1,Tianjin,China,male,51-60,1,0,0
+1,Tianjin,China,female,21-30,1,0,0
+1,Tianjin,China,male,21-30,0,0,0
+1,Tianjin,China,male,51-60,0,0,0
+1,Tianjin,China,male,21-30,1,0,0
+1,Tianjin,China,female,31-40,1,0,0
+1,Tianjin,China,female,20-Nov,1,0,0
+1,Tianjin,China,female,21-30,1,0,0
+1,Gansu,China,male,21-30,1,0,0
+1,Gansu,China,male,41-50,0,1,0
+1,Shaanxi,China,male,41-50,1,0,0
+1,Shaanxi,China,female,41-50,1,0,0
+1,Shaanxi,China,female,Less than 10,1,0,0
+1,Shaanxi,China,male,31-40,0,1,0
+1,Shaanxi,China,male,21-30,0,1,0
+1,Shaanxi,China,male,21-30,0,1,0
+1,Shaanxi,China,male,20-Nov,1,0,0
+1,Shaanxi,China,female,41-50,1,0,0
+1,Shaanxi,China,male,21-30,1,0,0
+1,Shaanxi,China,female,31-40,1,0,0
+1,Yunnan,China,male,31-40,1,0,0
+1,Yunnan,China,male,61-70,1,0,0
+1,Yunnan,China,male,51-60,0,1,0
+1,Yunnan,China,male,41-50,0,1,0
+1,Yunnan,China,male,31-40,0,1,0
+1,Yunnan,China,female,51-60,1,0,0
+1,Beijing,China,female,71-80,1,0,0
+1,Beijing,China,female,20-Nov,1,0,0
+1,Beijing,China,female,51-60,0,0,0
+1,Xinjiang,China,female,31-40,0,0,0
+1,Ningxia,China,female,21-30,1,0,0
+1,Tianjin,China,female,21-30,0,0,0
+1,Tianjin,China,female,61-70,0,0,0
+1,Tianjin,China,male,41-50,0,0,0
+1,Macau,China,female,61-70,0,1,0
+1,Macau,China,female,51-60,0,1,0
+1,Macau,China,female,31-40,0,1,0
+1,Shaanxi,China,male,31-40,0,0,0
+1,Shaanxi,China,male,71-80,1,0,0
+1,Shaanxi,China,male,31-40,1,0,0
+1,Shaanxi,China,female,41-50,0,1,0
+1,Shaanxi,China,female,20-Nov,0,0,0
+1,Shaanxi,China,female,61-70,0,0,0
+1,Shaanxi,China,male,71-80,0,0,0
+1,Tianjin,China,male,31-40,0,1,0
+1,Yunnan,China,female,Less than 10,0,1,0
+1,Yunnan,China,male,31-40,0,1,0
+1,Yunnan,China,female,61-70,1,0,0
+1,Yunnan,China,male,41-50,0,1,0
+1,Yunnan,China,male,71-80,0,1,0
+1,Tianjin,China,male,61-70,1,0,0
+1,Tianjin,China,male,31-40,0,0,0
+1,Tianjin,China,female,31-40,0,0,0
+1,Guizhou,China,male,20-Nov,1,0,0
+1,Jilin,China,male,41-50,1,0,0
+1,Yunnan,China,female,31-40,0,1,0
+1,Yunnan,China,female,61-70,0,1,0
+1,Yunnan,China,female,41-50,0,1,0
+1,Jiangxi,China,female,41-50,1,0,0
+1,Shaanxi,China,male,41-50,0,1,0
+1,Shaanxi,China,male,31-40,0,1,0
+1,Shaanxi,China,female,41-50,1,0,0
+1,Shaanxi,China,male,31-40,1,0,0
+1,Shaanxi,China,male,21-30,0,1,0
+1,Shaanxi,China,female,21-30,0,1,0
+1,Shaanxi,China,female,51-60,1,0,0
+1,Shaanxi,China,male,31-40,0,0,0
+1,Shaanxi,China,male,41-50,1,0,0
+1,Shaanxi,China,male,31-40,1,0,0
+1,Shaanxi,China,female,21-30,0,1,0
+1,Shaanxi,China,male,71-80,0,1,0
+1,Hubei,China,female,31-40,0,1,0
+1,Hubei,China,male,61-70,0,1,0
+1,Shandong,China,male,51-60,0,1,0
+13,Bordeaux,France,male,31-40,1,0,0
+13,Paris,France,male,51-60,0,1,0
+13,Paris,France,female,51-60,0,1,0
+13,Paris,France,female,51-60,0,1,1
+13,Paris,France,male,31-40,1,0,0
+13,Paris,France,male,71-80,0,0,0
+13,France,France,male,41-50,0,0,0
+13,France,France,female,31-40,0,0,0
+13,France,France,female,21-30,0,0,0
+13,France,France,female,21-30,0,0,0
+13,France,France,female,51-60,0,0,0
+13,France,France,female,21-30,0,0,0
+13,Paris,France,male,21-30,0,0,0
+13,Annecy,France,male,31-40,0,0,0
+13,Amiens,France,male,41-50,0,0,0
+13,Strasbourg,France,female,31-40,0,0,0
+13,Paris,France,male,41-50,0,0,1
+13,Annecy,France,male,41-50,0,0,0
+13,Paris,France,male,61-70,0,0,0
+13,Paris,France,female,41-50,0,0,0
+13,Saint-Mande,France,female,41-50,0,0,0
+13,Saint-Mande,France,male,51-60,0,0,0
+13,Saint-Mande,France,male,51-60,0,0,0
+13,Saint-Mande,France,female,31-40,0,0,0
+13,Saint-Mande,France,female,21-30,0,0,0
+13,Dijon,France,female,21-30,0,0,0
+13,Dijon,France,male,41-50,0,0,0
+13,Dijon,France,male,41-50,0,0,0
+13,Lile,France,male,31-40,0,0,0
+13,Nantes,France,female,31-40,0,0,0
+13,Montpellier,France,female,51-60,0,0,0
+13,Paris,France,male,51-60,0,0,0
+13,Brest,France,male,41-50,0,0,0
+13,Dijon,France,male,21-30,0,0,0
+13,Lyon,France,male,51-60,0,0,0
+13,Annecy,France,male,21-30,0,0,0
+13,Annecy,France,male,41-50,0,0,0
+13,Bois-Guillaume,France,male,51-60,0,0,0
+13,Nice,France,female,81-90,0,0,0
+13,Landes,France,male,71-80,0,0,0
+13,Paris,France,male,51-60,0,0,0
+13,Paris,France,male,21-30,0,0,0
+13,Paris,France,male,71-80,0,0,0
+13,Paris,France,female,61-70,0,0,0
+13,Pays de la Loire,France,female,51-60,0,0,0
+13,Pays de la Loire,France,male,71-80,0,0,0
+13,Pays de la Loire,France,male,61-70,0,0,0
+13,Pays de la Loire,France,male,51-60,0,0,0
+13,Pays,France,male,31-40,0,0,0
+13,Nice,France,male,51-60,0,0,0
+13,Guadeloupe,France,female,51-60,0,0,0
+13,Guadeloupe,France,male,61-70,0,0,0
+13,Guadeloupe,France,female,61-70,0,0,0
+13,Lyon,France,female,61-70,0,0,0
+13,Lyon,France,male,41-50,0,0,0
+13,Lyon,France,male,61-70,0,0,0
+20,Kanagawa,Japan,male,31-40,1,0,0
+20,Tokyo,Japan,male,61-70,0,1,0
+20,Tokyo,Japan,male,61-70,0,1,0
+20,Aichi Prefecture,Japan,male,61-70,0,1,0
+20,Aichi Prefecture,Japan,female,81-90,0,1,0
+20,Nara Prefecture,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,51-60,1,1,0
+20,Osaka Prefecture,Japan,male,51-60,0,0,0
+20,Tokyo,Japan,female,41-50,0,1,0
+20,Mie,Japan,male,61-70,1,0,0
+20,Japan,Japan,male,31-40,1,0,0
+20,Kyoto,Japan,male,81-90,1,0,0
+20,Haneda,Japan,male,21-30,1,0,0
+20,Japan,Japan,male,51-60,1,0,0
+20,Japan,Japan,male,61-70,1,0,0
+20,Japan,Japan,male,81-90,1,0,0
+20,Chiba Prefecture,Japan,male,71-80,0,1,0
+20,Chiba Prefecture,Japan,male,61-70,1,0,0
+20,Japan,Japan,male,41-50,0,1,0
+20,Chiba Prefecture,Japan,male,61-70,0,1,0
+20,Kyoto,Japan,male,61-70,0,0,0
+20,Japan,Japan,male,71-80,0,1,0
+20,Japan,Japan,female,71-80,0,1,0
+20,Japan,Japan,female,71-80,1,0,0
+20,Japan,Japan,female,51-60,0,1,0
+20,Japan,Japan,male,51-60,0,0,0
+20,Kanagawa,Japan,male,61-70,0,0,1
+20,Tokyo,Japan,male,41-50,0,0,0
+20,Wakayama Prefecture,Japan,female,71-80,0,0,0
+20,Chiba Prefecture,Japan,male,81-90,0,0,0
+20,Japan,Japan,male,81-90,0,0,1
+20,Okinawa Prefecture,Japan,male,81-90,0,0,0
+20,Tokyo,Japan,female,61-70,0,0,0
+20,Tokyo,Japan,male,Less than 10,0,0,0
+20,Aichi Prefecture,Japan,male,20-Nov,0,0,0
+20,Hokkaido,Japan,female,41-50,0,0,0
+20,Kanagawa,Japan,male,51-60,0,0,0
+20,Wakayama Prefecture,Japan,female,51-60,0,0,0
+20,Wakayama Prefecture,Japan,female,71-80,0,0,0
+20,Wakayama Prefecture,Japan,female,51-60,0,0,0
+20,Aichi Prefecture,Japan,male,61-70,0,0,0
+20,Tokyo,Japan,male,81-90,0,0,0
+20,Tokyo,Japan,male,71-80,0,0,0
+20,Tokyo,Japan,female,21-30,0,0,0
+20,Tokyo,Japan,female,21-30,0,0,0
+20,Aichi Prefecture,Japan,male,51-60,0,0,0
+20,Nara Prefecture,Japan,male,61-70,0,0,0
+20,Aichi Prefecture,Japan,male,41-50,0,0,0
+20,Wakayama Prefecture,Japan,female,61-70,0,0,0
+20,Wakayama Prefecture,Japan,female,51-60,0,0,0
+20,Wakayama Prefecture,Japan,female,71-80,0,0,0
+20,Wakayama Prefecture,Japan,male,81-90,0,0,0
+20,Wakayama Prefecture,Japan,male,71-80,0,0,0
+20,Wakayama Prefecture,Japan,female,51-60,0,0,0
+20,Wakayama Prefecture,Japan,male,61-70,0,0,0
+20,Tokyo,Japan,female,51-60,0,0,1
+20,Japan,Japan,female,20-Nov,0,0,0
+20,Japan,Japan,female,51-60,0,0,0
+20,Aichi Prefecture,Japan,male,61-70,0,0,0
+20,Sagamihara,Japan,female,61-70,0,0,0
+20,Sagamihara,Japan,female,41-50,0,0,0
+20,Kanagawa,Japan,male,61-70,0,0,0
+20,Sapporo,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Okinawa Prefecture,Japan,male,51-60,0,0,0
+20,Tokyo,Japan,male,51-60,0,0,0
+20,Tokyo,Japan,male,71-80,0,0,0
+20,Tokyo,Japan,female,71-80,0,0,0
+20,Nagoya City,Japan,male,71-80,0,0,0
+20,Japan,Japan,male,41-50,0,0,0
+20,Fukuoka Prefecture,Japan,male,31-40,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Chiba Prefecture,Japan,male,21-30,0,0,0
+20,Okinawa Prefecture,Japan,male,71-80,0,0,0
+20,Japan,Japan,female,31-40,0,0,0
+20,Japan,Japan,male,81-90,0,0,0
+20,Nagoya City,Japan,female,41-50,0,0,0
+20,Sagamihara,Japan,female,21-30,0,0,0
+20,Fukuoka Prefecture,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,female,71-80,0,0,0
+20,Ishikawa,Japan,male,51-60,0,0,0
+20,Saitama Prefecture,Japan,female,21-30,1,0,0
+20,Tokyo,Japan,male,51-60,0,0,0
+20,Tokyo,Japan,male,51-60,0,0,0
+20,Tokyo,Japan,male,41-50,0,0,0
+20,Chiba Prefecture,Japan,male,51-60,0,0,0
+20,Sagamihara,Japan,male,31-40,0,0,0
+20,Nagoya City,Japan,female,51-60,0,0,0
+20,Nagoya City,Japan,female,21-30,0,0,0
+20,Kumamoto City,Japan,female,21-30,0,0,0
+20,Kumamoto City,Japan,male,61-70,0,0,0
+20,Kumamoto Prefecture,Japan,male,51-60,0,0,0
+20,Wakayama Prefecture,Japan,female,61-70,0,0,0
+20,Chiba Prefecture,Japan,female,61-70,0,0,0
+20,Japan,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,female,71-80,0,0,0
+20,Hokkaido,Japan,female,71-80,0,0,1
+20,Hokkaido,Japan,female,41-50,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,71-80,0,0,0
+20,Hokkaido,Japan,male,21-30,0,0,0
+20,Hokkaido,Japan,female,21-30,0,0,0
+20,Tokyo,Japan,male,71-80,0,0,0
+20,Nagoya City,Japan,female,71-80,0,0,0
+20,Nagoya City,Japan,female,71-80,0,0,0
+20,Nagoya City,Japan,male,41-50,0,0,0
+20,Nagoya City,Japan,male,61-70,0,0,0
+20,Japan,Japan,female,41-50,0,0,0
+20,Sagamihara,Japan,male,81-90,0,0,0
+20,Hokkaido,Japan,male,71-80,0,0,0
+20,Sapporo,Japan,male,71-80,0,0,0
+20,Nagoya City,Japan,male,51-60,0,0,0
+20,Nagoya City,Japan,male,61-70,0,0,0
+20,Chiba Prefecture,Japan,male,71-80,0,0,0
+20,Hokkaido,Japan,male,71-80,0,0,0
+20,Hokkaido,Japan,female,71-80,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Ishikawa,Japan,male,51-60,0,0,0
+20,Sagamihara,Japan,male,51-60,0,0,0
+20,Ishikawa,Japan,male,31-40,0,0,0
+20,Sapporo,Japan,male,71-80,0,0,0
+20,Sapporo,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Kanagawa,Japan,male,Less than 10,0,0,0
+20,Tokyo,Japan,male,31-40,0,0,0
+20,Tokyo,Japan,male,Less than 10,0,0,0
+20,Tokyo,Japan,male,81-90,0,0,0
+20,Sagamihara,Japan,male,31-40,0,0,0
+20,Sagamihara,Japan,male,81-90,0,0,0
+20,Sagamihara,Japan,male,61-70,0,0,0
+20,Nagano Prefecture,Japan,female,41-50,0,0,0
+20,Kumamoto City,Japan,female,61-70,0,0,0
+20,Kumamoto City,Japan,male,61-70,0,0,0
+20,Sapporo,Japan,female,41-50,0,0,0
+20,Ishikawa,Japan,male,21-30,0,0,0
+20,Nagoya City,Japan,male,61-70,0,0,0
+20,Nagoya City,Japan,female,81-90,0,0,0
+20,Nagoya City,Japan,male,Less than 10,0,0,0
+20,Chiba Prefecture,Japan,male,81-90,0,0,0
+20,Chiba Prefecture,Japan,female,61-70,0,0,0
+20,Chiba Prefecture,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,male,71-80,0,0,1
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Kanagawa,Japan,male,61-70,0,0,0
+20,Osaka Prefecture,Japan,female,41-50,0,0,0
+20,Tokyo,Japan,female,31-40,0,0,0
+20,Tokyo,Japan,male,61-70,0,0,0
+20,Tokyo,Japan,male,71-80,0,0,0
+20,Nagoya City,Japan,female,21-30,0,0,0
+20,Nagoya City,Japan,female,91-100,0,0,0
+20,Nagoya City,Japan,female,61-70,0,0,0
+20,Nagoya City,Japan,female,31-40,0,0,0
+20,Nagoya City,Japan,female,21-30,0,0,0
+20,Gifu Prefecture,Japan,female,71-80,0,0,0
+20,Gifu Prefecture,Japan,male,61-70,0,0,0
+20,Ishikawa,Japan,female,71-80,0,0,0
+20,Kanagawa,Japan,female,51-60,0,0,0
+20,Tokyo,Japan,male,21-30,0,0,0
+20,Osaka Prefecture,Japan,female,21-30,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,71-80,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,female,81-90,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,female,31-40,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,61-70,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Nagoya City,Japan,female,41-50,0,0,0
+20,Nagoya City,Japan,male,51-60,0,0,0
+20,Japan,Japan,male,51-60,0,0,0
+20,Sagamihara City,Japan,female,41-50,0,0,0
+20,Sagamihara City,Japan,female,31-40,0,0,0
+20,Shizuoka City,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,female,31-40,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,female,61-70,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,41-50,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,female,41-50,0,0,0
+20,Sapporo,Japan,female,71-80,0,0,0
+20,Sapporo,Japan,male,81-90,0,0,0
+20,Sapporo,Japan,female,21-30,0,0,0
+20,Nagoya City,Japan,male,71-80,0,0,0
+20,Osaka Prefecture,Japan,male,41-50,0,0,0
+20,Kochi Prefecture,Japan,male,31-40,0,0,0
+20,Niigata City,Japan,female,61-70,0,0,0
+20,Sendai City,Japan,male,20-Nov,0,0,0
+20,Tokyo,Japan,male,Less than 10,0,0,0
+20,Hokkaido,Japan,female,Less than 10,0,0,0
+20,Hokkaido,Japan,female,31-40,0,0,0
+20,Hokkaido,Japan,male,51-60,0,0,0
+20,Hokkaido,Japan,female,41-50,0,0,0
+20,Nagoya City,Japan,male,41-50,0,0,0
+20,Kitakyushu City,Japan,male,61-70,0,0,0
+20,Kanagawa,Japan,male,41-50,0,0,0
+20,Kanagawa,Japan,male,Less than 10,0,0,0
+20,Funabashi City,Japan,female,31-40,0,0,0
+20,Hokkaido,Japan,female,31-40,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Tokyo,Japan,female,61-70,0,0,0
+20,Tokyo,Japan,female,61-70,0,0,0
+20,Sagamihara City,Japan,male,31-40,0,0,0
+20,Sagamihara City,Japan,female,31-40,0,0,0
+20,Kochi Prefecture,Japan,male,21-30,0,0,0
+20,Nagoya City,Japan,female,31-40,0,0,0
+20,Nagoya City,Japan,female,81-90,0,0,0
+20,Nagoya City,Japan,female,51-60,0,0,0
+20,Nishimiya City,Japan,male,31-40,0,0,0
+20,Kochi Prefecture,Japan,male,61-70,0,0,0
+20,Niigata City,Japan,female,51-60,0,0,0
+20,Hokkaido,Japan,male,31-40,0,0,0
+20,Hokkaido,Japan,male,31-40,0,0,0
+20,Hokkaido,Japan,female,51-60,0,0,0
+20,Asakihawa City,Japan,male,51-60,0,0,0
+20,Sapporo,Japan,male,31-40,0,0,0
+20,Osaka Prefecture,Japan,female,51-60,0,0,0
+20,Osaka Prefecture,Japan,male,51-60,0,0,0
+20,Oita City,Japan,male,51-60,0,0,0
+20,Kobe City,Japan,female,31-40,0,0,0
+20,Sapporo,Japan,female,31-40,0,0,0
+20,Sapporo,Japan,female,71-80,0,0,0
+20,Niigata City,Japan,male,31-40,0,0,0
+20,Niigata City,Japan,female,41-50,0,0,0
+20,Niigata City,Japan,male,31-40,0,0,0
+20,Kyoto,Japan,female,41-50,0,0,0
+20,Tokyo,Japan,female,31-40,0,0,0
+20,Osaka Prefecture,Japan,female,21-30,0,0,0
+20,Osaka Prefecture,Japan,female,41-50,0,0,0
+20,Aichi Prefecture,Japan,female,41-50,0,0,0
+20,Aichi Prefecture,Japan,female,31-40,0,0,0
+20,Aichi Prefecture,Japan,female,41-50,0,0,0
+20,Aichi Prefecture,Japan,male,Less than 10,0,0,0
+20,Aichi Prefecture,Japan,male,41-50,0,0,0
+23,Johor,Malaysia,male,51-60,0,1,0
+23,Johor,Malaysia,female,31-40,0,0,0
+23,Johor,Malaysia,female,21-30,0,0,0
+23,Johor,Malaysia,male,81-90,0,0,0
+23,Langkawi,Malaysia,female,61-70,0,0,0
+23,Johor,Malaysia,female,61-70,0,0,0
+23,Johor,Malaysia,female,20-Nov,0,0,0
+23,Johor,Malaysia,female,31-40,0,0,0
+23,Malaysia,Malaysia,male,21-30,0,0,0
+23,Malaysia,Malaysia,female,21-30,0,1,0
+23,Malaysia,Malaysia,female,41-50,1,0,0
+23,Malaysia,Malaysia,male,41-50,1,0,0
+23,Malaysia,Malaysia,female,51-60,0,0,0
+23,Malaysia,Malaysia,female,61-70,0,1,0
+23,Johor,Malaysia,male,71-80,0,1,0
+23,Malaysia,Malaysia,female,61-70,0,1,0
+23,Malaysia,Malaysia,female,21-30,0,0,0
+23,Malaysia,Malaysia,female,51-60,0,0,0
+23,Malaysia,Malaysia,female,41-50,0,1,0
+23,Malaysia,Malaysia,female,51-60,0,0,0
+23,Malaysia,Malaysia,male,21-30,0,0,0
+23,Malaysia,Malaysia,female,61-70,0,0,0
+23,Malaysia,Malaysia,female,71-80,0,0,0
+24,Kathmandu,Nepal,male,51-60,0,1,0
+27,Singapore,Singapore,male,71-80,0,1,0
+27,Singapore,Singapore,female,61-70,0,1,0
+27,Singapore,Singapore,male,21-30,0,1,0
+27,Singapore,Singapore,female,31-40,0,1,0
+27,Singapore,Singapore,male,51-60,0,1,0
+27,Singapore,Singapore,male,51-60,0,1,0
+27,Singapore,Singapore,male,71-80,0,1,0
+27,Singapore,Singapore,male,21-30,1,0,0
+27,Singapore,Singapore,female,21-30,1,0,0
+27,Singapore,Singapore,female,31-40,1,0,0
+27,Singapore,Singapore,female,51-60,0,1,0
+27,Singapore,Singapore,female,51-60,0,1,0
+27,Singapore,Singapore,male,51-60,0,1,0
+27,Singapore,Singapore,female,51-60,1,0,0
+27,Singapore,Singapore,female,51-60,1,0,0
+27,Singapore,Singapore,female,41-50,1,0,0
+27,Singapore,Singapore,male,21-30,1,0,0
+27,Singapore,Singapore,female,21-30,1,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,female,51-60,1,0,0
+27,Singapore,Singapore,female,31-40,1,0,0
+27,Singapore,Singapore,female,20-Nov,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,female,21-30,1,0,0
+27,Singapore,Singapore,male,31-40,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,21-30,0,0,0
+27,Singapore,Singapore,female,31-40,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,71-80,0,0,0
+27,Singapore,Singapore,male,31-40,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,male,31-40,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,male,71-80,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,51-60,1,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,female,21-30,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,81-90,0,0,0
+27,Singapore,Singapore,male,31-40,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,female,21-30,0,0,0
+27,Singapore,Singapore,male,81-90,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,female,71-80,0,0,0
+27,Singapore,Singapore,female,31-40,0,0,0
+27,Singapore,Singapore,male,31-40,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,female,71-80,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,female,71-80,0,0,0
+27,Singapore,Singapore,female,31-40,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,71-80,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,31-40,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,31-40,1,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,male,Less than 10,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,male,21-30,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,female,61-70,0,0,0
+27,Singapore,Singapore,male,20-Nov,0,0,0
+27,Singapore,Singapore,female,51-60,0,0,0
+27,Singapore,Singapore,male,51-60,0,0,0
+27,Singapore,Singapore,female,71-80,0,0,0
+27,Singapore,Singapore,female,41-50,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,male,61-70,0,0,0
+27,Singapore,Singapore,female,31-40,0,0,0
+27,Singapore,Singapore,female,81-90,0,0,0
+27,Singapore,Singapore,female,91-100,0,0,0
+27,Singapore,Singapore,male,71-80,0,0,0
+27,Singapore,Singapore,male,71-80,0,0,0
+27,Singapore,Singapore,male,41-50,0,0,0
+28,South Korea,South Korea,male,61-70,0,1,0
+28,South Korea,South Korea,female,21-30,1,0,0
+28,South Korea,South Korea,female,20-Nov,0,1,0
+28,South Korea,South Korea,female,71-80,1,0,0
+28,South Korea,South Korea,male,51-60,1,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,female,71-80,1,0,0
+28,South Korea,South Korea,female,81-90,1,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,female,21-30,0,0,0
+28,South Korea,South Korea,male,20-Nov,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,21-30,1,0,0
+28,Seoul,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,41-50,1,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,male,21-30,0,0,0
+28,South Korea,South Korea,male,21-30,0,0,0
+28,South Korea,South Korea,female,81-90,0,0,0
+28,South Korea,South Korea,male,61-70,1,0,0
+28,South Korea,South Korea,female,31-40,1,0,0
+28,South Korea,South Korea,male,20-Nov,0,0,0
+28,South Korea,South Korea,female,20-Nov,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,female,91-100,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,male,31-40,0,0,0
+28,South Korea,South Korea,male,81-90,0,0,0
+28,South Korea,South Korea,female,21-30,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,1
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,female,81-90,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,male,21-30,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,female,21-30,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,female,81-90,0,0,1
+28,South Korea,South Korea,male,91-100,0,0,1
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,male,31-40,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,31-40,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,male,81-90,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,female,31-40,0,0,0
+28,South Korea,South Korea,female,20-Nov,0,0,0
+28,South Korea,South Korea,male,20-Nov,0,0,0
+28,South Korea,South Korea,male,20-Nov,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,female,61-70,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,female,71-80,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,male,31-40,0,0,0
+28,South Korea,South Korea,male,51-60,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,male,71-80,0,0,0
+28,South Korea,South Korea,female,41-50,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,1
+28,Seoul,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,female,81-90,0,0,1
+28,South Korea,South Korea,female,41-50,0,0,1
+28,South Korea,South Korea,male,61-70,0,0,0
+28,South Korea,South Korea,male,41-50,0,0,1
+28,South Korea,South Korea,female,61-70,0,0,1
+28,South Korea,South Korea,male,41-50,0,0,0
+28,South Korea,South Korea,female,51-60,0,0,1
+33,Taiwan,Taiwan,female,31-40,1,0,0
+33,Taiwan,Taiwan,female,51-60,1,0,0
+33,Taiwan,Taiwan,female,51-60,1,0,0
+33,Taiwan,Taiwan,male,51-60,1,0,0
+33,Taiwan,Taiwan,female,61-70,1,0,0
+33,Taiwan,Taiwan,male,61-70,0,1,0
+33,Taiwan,Taiwan,male,51-60,0,1,0
+33,Taiwan,Taiwan,female,61-70,0,0,0
+33,Taiwan,Taiwan,female,61-70,1,0,0
+33,Taiwan,Taiwan,female,21-30,0,0,0
+33,Taiwan,Taiwan,female,81-90,1,0,0
+33,Taiwan,Taiwan,female,31-40,1,0,0
+33,Taiwan,Taiwan,male,41-50,0,1,0
+33,Taiwan,Taiwan,male,51-60,0,0,0
+33,Taiwan,Taiwan,male,71-80,0,0,0
+33,Taiwan,Taiwan,male,71-80,0,0,0
+33,Taiwan,Taiwan,female,61-70,0,0,0
+33,Taiwan,Taiwan,male,41-50,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,1
+33,Taiwan,Taiwan,male,31-40,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,0
+33,Taiwan,Taiwan,female,71-80,0,0,0
+33,Taiwan,Taiwan,female,81-90,0,0,0
+33,Taiwan,Taiwan,male,31-40,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,0
+33,Taiwan,Taiwan,male,71-80,0,0,0
+33,Taiwan,Taiwan,female,81-90,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,0
+33,Taiwan,Taiwan,female,21-30,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,0
+33,Taiwan,Taiwan,male,61-70,0,0,0
+33,Taiwan,Taiwan,male,31-40,0,0,0
+33,Taiwan,Taiwan,male,41-50,0,0,0
+33,Taiwan,Taiwan,male,51-60,0,0,0
+34,Thailand,Thailand,male,31-40,0,1,0
+34,Thailand,Thailand,female,51-60,0,1,0
+34,Thailand,Thailand,female,81-90,1,0,0
+34,Thailand,Thailand,female,91-100,1,0,0
+34,Thailand,Thailand,male,21-30,1,0,0
+34,Thailand,Thailand,male,41-50,1,0,0
+34,Thailand,Thailand,male,21-30,0,1,0
+34,Thailand,Thailand,female,81-90,0,1,0
+34,Thailand,Thailand,female,51-60,0,1,0
+34,Thailand,Thailand,female,71-80,0,1,0
+34,Thailand,Thailand,female,51-60,0,1,0
+34,Thailand,Thailand,female,71-80,0,1,0
+34,Thailand,Thailand,female,31-40,0,1,0
+34,Thailand,Thailand,female,71-80,0,0,0
+34,Thailand,Thailand,female,71-80,1,0,0
+34,Thailand,Thailand,male,61-70,1,0,0
+34,Thailand,Thailand,male,61-70,1,0,0
+34,Thailand,Thailand,male,71-80,1,0,0
+34,Thailand,Thailand,female,71-80,1,0,0
+34,Thailand,Thailand,male,41-50,0,0,0
+34,Thailand,Thailand,female,61-70,0,0,0
+34,Thailand,Thailand,female,51-60,0,0,0
+34,Thailand,Thailand,female,61-70,0,0,0
+34,Thailand,Thailand,female,91-100,0,0,0
+34,Thailand,Thailand,male,31-40,0,0,0
+34,Thailand,Thailand,male,71-80,1,0,0
+34,Thailand,Thailand,male,71-80,0,0,0
+34,Thailand,Thailand,female,71-80,0,0,0
+34,Thailand,Thailand,female,51-60,0,0,0
+34,Thailand,Thailand,female,31-40,0,0,0
+34,Thailand,Thailand,female,61-70,0,0,0
+34,Thailand,Thailand,female,21-30,0,0,0
+34,Thailand,Thailand,male,61-70,0,1,0
+34,Thailand,Thailand,male,51-60,0,0,0
+34,Thailand,Thailand,female,20-Nov,0,0,0
+34,Thailand,Thailand,male,31-40,0,0,0
+34,Thailand,Thailand,male,71-80,0,0,0
+34,Thailand,Thailand,female,61-70,0,0,0
+34,Thailand,Thailand,female,41-50,0,0,0
+34,Thailand,Thailand,male,41-50,0,0,0
+34,Thailand,Thailand,female,61-70,0,0,0
+37,Washington,USA,female,81-90,1,0,0
+37,Illinois,USA,female,71-80,1,0,0
+37,California,USA,female,31-40,0,1,0
+37,California,USA,female,51-60,1,0,0
+37,Arizona,USA,female,71-80,1,0,0
+37,Illinois,USA,female,41-50,0,0,0
+37,California,USA,male,51-60,1,0,0
+37,Massachusetts,USA,female,51-60,1,0,0
+37,California,USA,male,31-40,1,0,0
+37,California,USA,female,51-60,0,0,0
+37,California,USA,male,41-50,1,0,0
+37,Wisconsin,USA,female,21-30,0,0,0
+37,California,USA,female,41-50,1,0,0
+37,California,USA,female,21-30,1,0,0
+37,Texas,USA,female,51-60,1,0,0
+37,California,USA,male,31-40,0,0,0
+37,California,USA,male,71-80,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,female,71-80,0,0,0
+37,Oregon,USA,male,71-80,0,0,0
+37,Washington,USA,male,41-50,0,0,0
+37,Washington,USA,male,81-90,0,0,0
+37,Washington,USA,male,71-80,0,0,1
+37,Washington,USA,male,71-80,0,0,0
+37,Washington,USA,female,51-60,0,0,0
+37,Illinois,USA,male,41-50,0,0,0
+37,California,USA,female,41-50,0,0,0
+37,Rhode Island,USA,male,61-70,0,0,0
+37,Washington,USA,female,71-80,0,0,0
+37,Washington,USA,male,51-60,0,0,0
+37,California,USA,female,61-70,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,male,71-80,0,0,0
+37,New York,USA,male,61-70,0,0,0
+37,Washington,USA,female,61-70,0,0,0
+37,Washington,USA,male,51-60,0,0,0
+37,Washington,USA,male,41-50,0,0,0
+37,Washington,USA,male,61-70,0,0,1
+37,Washington,USA,male,51-60,0,0,0
+37,Florida,USA,male,71-80,0,0,0
+37,Florida,USA,male,21-30,0,0,0
+37,Rhode Island,USA,male,61-70,0,0,0
+37,Texas,USA,male,61-70,1,0,0
+37,Oregon,USA,female,61-70,0,0,0
+37,USA,USA,male,61-70,0,0,0
+37,New Hampshire,USA,female,20-Nov,0,0,0
+37,Illinois,USA,male,21-30,0,0,0
+37,Oregon,USA,male,31-40,0,0,0
+37,California,USA,male,31-40,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,Washington,USA,male,21-30,0,0,0
+37,Washington,USA,female,31-40,0,0,1
+37,Washington,USA,male,41-50,0,0,1
+37,Washington,USA,female,51-60,0,0,0
+37,California,USA,male,41-50,0,0,0
+37,Washington,USA,male,21-30,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,Massachusetts,USA,female,41-50,0,0,0
+37,Georgia,USA,female,61-70,0,0,0
+37,Georgia,USA,male,51-60,0,0,0
+37,New York,USA,male,51-60,0,0,0
+37,Arizona,USA,male,21-30,0,0,0
+37,Florida,USA,male,61-70,0,0,0
+37,Washington,USA,male,21-30,0,0,0
+37,Washington,USA,male,41-50,0,0,0
+37,Washington,USA,female,71-80,0,0,0
+37,Washington,USA,male,81-90,0,0,0
+37,Washington,USA,female,41-50,0,0,0
+37,Washington,USA,male,41-50,0,0,0
+37,Washington,USA,female,41-50,0,0,0
+37,Washington,USA,male,71-80,0,0,0
+37,Washington,USA,female,71-80,0,0,1
+37,North Carolina,USA,female,71-80,0,0,0
+37,California,USA,male,51-60,0,0,0
+37,California,USA,male,61-70,0,0,0
+37,New Hampshire,USA,male,31-40,0,0,0
+37,California,USA,female,71-80,0,0,0
+37,California,USA,male,21-30,0,0,0
+37,California,USA,female,31-40,0,0,0
+37,California,USA,male,81-90,0,0,0
+37,California,USA,female,21-30,0,0,0
+37,California,USA,male,71-80,0,0,0
+37,Washington,USA,female,51-60,0,0,0
+37,New York,USA,male,51-60,0,0,0
+37,New York,USA,male,41-50,0,0,0
+37,New York,USA,female,71-80,0,0,0
+37,New York,USA,male,51-60,0,0,0
+37,California,USA,female,51-60,0,0,0
+37,California,USA,female,21-30,0,0,0
+37,California,USA,female,21-30,0,0,0
+37,California,USA,female,21-30,0,0,0
+37,California,USA,female,41-50,0,0,0
+37,Washington,USA,male,71-80,0,0,0
+38,Ho Chi Minh City,Vietnam,NotKnown,UnKnown,0,1,0
+38,Ho Chi Minh City,Vietnam,NotKnown,UnKnown,0,0,0
+38,Hanoi,Vietnam,NotKnown,UnKnown,1,0,0
+38,Hanoi,Vietnam,NotKnown,UnKnown,1,0,0
+38,Thanh Hoa,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vietnam,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vietnam,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vietnam,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,1,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+38,Vinh Phuc,Vietnam,NotKnown,UnKnown,0,0,0
+4,NSW,Australia,NotKnown,UnKnown,0,0,0
+4,NSW,Australia,NotKnown,UnKnown,1,0,0
+4,NSW,Australia,NotKnown,UnKnown,1,0,0
+4,Victoria,Australia,NotKnown,UnKnown,1,0,0
+4,NSW,Australia,NotKnown,UnKnown,1,0,0
+4,Queensland,Australia,NotKnown,UnKnown,0,1,0
+4,Victoria,Australia,NotKnown,UnKnown,1,0,0
+4,Victoria,Australia,NotKnown,UnKnown,0,1,0
+4,Queensland,Australia,NotKnown,UnKnown,0,1,0
+4,South Australia,Australia,NotKnown,UnKnown,0,1,0
+4,South Australia,Australia,NotKnown,UnKnown,0,1,0
+4,Victoria,Australia,NotKnown,UnKnown,1,0,0
+4,Queensland,Australia,NotKnown,UnKnown,0,1,0
+4,Queensland,Australia,NotKnown,UnKnown,0,1,0
+4,Queensland,Australia,NotKnown,UnKnown,0,1,0
+9,Toronto,Canada,NotKnown,UnKnown,1,0,0
+9,Toronto,Canada,NotKnown,UnKnown,1,0,0
+9,Vancouver,Canada,NotKnown,UnKnown,1,0,0
+9,Toronto,Canada,NotKnown,UnKnown,1,0,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,0,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,1,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,1,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,0,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,0,0
+9,Toronto,Canada,NotKnown,UnKnown,1,0,0
+9,Vancouver,Canada,NotKnown,UnKnown,0,0,0
+9,Toronto,Canada,NotKnown,UnKnown,0,0,0
+8,Preah Sihanouk Province,Cambodia,NotKnown,UnKnown,0,1,0
+30,Sri Lanka,Sri Lanka,NotKnown,UnKnown,0,1,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Frankfurt,Germany,NotKnown,UnKnown,1,0,0
+14,Frankfurt,Germany,NotKnown,UnKnown,1,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,Hamburg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Rhineland-Palatinate,Germany,NotKnown,UnKnown,0,0,0
+14,Bavaria,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,North Rhine-Westphalia,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Brandenburg,Germany,NotKnown,UnKnown,0,0,0
+14,Thuringia,Germany,NotKnown,UnKnown,0,0,0
+14,Saarland,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Hesse,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Baden-Wuerttemberg,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Mecklenburg-Vorpommern,Germany,NotKnown,UnKnown,0,0,0
+14,Saarland,Germany,NotKnown,UnKnown,0,0,0
+14,Saarland,Germany,NotKnown,UnKnown,0,0,0
+14,Brandenburg,Germany,NotKnown,UnKnown,0,0,0
+14,Saarland,Germany,NotKnown,UnKnown,0,0,0
+14,Saarland,Germany,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,1,0
+35,UAE,UAE,NotKnown,UnKnown,0,1,0
+35,UAE,UAE,NotKnown,UnKnown,0,1,0
+35,UAE,UAE,NotKnown,UnKnown,0,1,0
+35,UAE,UAE,NotKnown,UnKnown,1,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+35,UAE,UAE,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,1,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,1,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,1,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,1,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,1,0,0
+15,Yau Ma Tei,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Tsing Yi,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kowloon,Hong Kong,NotKnown,UnKnown,1,0,1
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kowloon,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kowloon,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kowloon,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kwun Tong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kwun Tong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kwai Chung,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Kwai Chung,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Zhuhai,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Fo Tan,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Wan Chai,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Ngau Chi Wan,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,1
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+15,Hong Kong,Hong Kong,NotKnown,UnKnown,0,0,0
+19,Rome,Italy,NotKnown,UnKnown,1,0,0
+19,Rome,Italy,NotKnown,UnKnown,1,0,0
+19,Rome,Italy,NotKnown,UnKnown,1,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Milan,Italy,NotKnown,UnKnown,0,0,0
+19,Milan,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,1
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Emilia-Romagna,Italy,NotKnown,UnKnown,0,0,0
+19,Emilia-Romagna,Italy,NotKnown,UnKnown,0,0,0
+19,Piedmont,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Veneto,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,1
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+19,Lombardy,Italy,NotKnown,UnKnown,0,0,0
+26,Tyumen,Russia,NotKnown,UnKnown,1,0,0
+26,Zabaikalsky,Russia,NotKnown,UnKnown,1,0,0
+36,York,UK,NotKnown,UnKnown,1,0,0
+36,York,UK,NotKnown,UnKnown,1,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,London,UK,NotKnown,UnKnown,0,0,0
+36,Nortern Ireland,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+36,Wales,UK,NotKnown,UnKnown,0,0,0
+36,UK,UK,NotKnown,UnKnown,0,0,0
+16,Kerala,India,NotKnown,UnKnown,1,0,0
+16,Alappuzha,India,NotKnown,UnKnown,1,0,0
+16,Kerala,India,NotKnown,UnKnown,1,0,0
+25,Manila,Phillipines,NotKnown,UnKnown,0,1,1
+25,Manila,Phillipines,NotKnown,UnKnown,0,1,0
+25,Phillipines,Phillipines,NotKnown,UnKnown,1,0,0
+12,Lapland,Finland,NotKnown,UnKnown,0,1,0
+29,Canary Islands,Spain,NotKnown,UnKnown,0,0,0
+29,Mallorca,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Barcelona,Spain,NotKnown,UnKnown,0,0,0
+29,Madrid,Spain,NotKnown,UnKnown,0,0,0
+29,Castellon,Spain,NotKnown,UnKnown,0,0,0
+29,Madrid,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Barcelona,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Madrid,Spain,NotKnown,UnKnown,0,0,0
+29,Madrid,Spain,NotKnown,UnKnown,0,0,0
+29,Barcelona,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Valencia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Madrid,Spain,NotKnown,UnKnown,0,0,0
+29,Zaragoza,Spain,NotKnown,UnKnown,0,0,0
+29,Tenerife,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Asturias,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Navarra,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Basque Country,Spain,NotKnown,UnKnown,0,0,0
+29,Basque Country,Spain,NotKnown,UnKnown,0,0,0
+29,Basque Country,Spain,NotKnown,UnKnown,0,0,0
+29,Castilla-La Mancha,Spain,NotKnown,UnKnown,0,0,0
+29,Castille and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Basque Country,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Cantabria,Spain,NotKnown,UnKnown,0,0,0
+29,Castilla-La Mancha,Spain,NotKnown,UnKnown,0,0,0
+29,Castilla-La Mancha,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Castile and Leon,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Catalonia,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Extremadura,Spain,NotKnown,UnKnown,0,0,0
+29,Navarra,Spain,NotKnown,UnKnown,0,0,0
+29,La Rioja,Spain,NotKnown,UnKnown,0,0,0
+29,La Rioja,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Andalusia,Spain,NotKnown,UnKnown,0,0,0
+29,Aragon,Spain,NotKnown,UnKnown,0,0,0
+29,Aragon,Spain,NotKnown,UnKnown,0,0,0
+29,Aragon,Spain,NotKnown,UnKnown,0,0,0
+29,Aragon,Spain,NotKnown,UnKnown,0,0,0
+29,Aragon,Spain,NotKnown,UnKnown,0,0,0
+31,Jonkoping,Sweden,NotKnown,UnKnown,1,0,0
+7,Belgium,Belgium,NotKnown,UnKnown,1,0,0
+11,Egypt,Egypt,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,1
+17,Qom,Iran,NotKnown,UnKnown,0,0,1
+17,Qom,Iran,NotKnown,UnKnown,0,0,1
+17,Qom,Iran,NotKnown,UnKnown,0,0,1
+17,Araq,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Qom,Iran,NotKnown,UnKnown,0,0,0
+17,Tehran,Iran,NotKnown,UnKnown,0,0,0
+17,Tehran,Iran,NotKnown,UnKnown,0,0,0
+17,Tehran,Iran,NotKnown,UnKnown,0,0,0
+17,Tehran,Iran,NotKnown,UnKnown,0,0,0
+17,Guilan,Iran,NotKnown,UnKnown,0,0,0
+17,Guilan,Iran,NotKnown,UnKnown,0,0,0
+18,Israel,Israel,NotKnown,UnKnown,0,0,0
+22,Lebanon,Lebanon,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+21,Kuwait,Kuwait,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+6,Bahrain,Bahrain,NotKnown,UnKnown,0,0,0
+5,Innsbruck,Austria,NotKnown,UnKnown,0,0,0
+5,Innsbruck,Austria,NotKnown,UnKnown,0,0,0
+2,Afghanistan,Afghanistan,NotKnown,UnKnown,0,0,0
+3,Algeria,Algeria,NotKnown,UnKnown,0,0,0
+10,Croatia,Croatia,NotKnown,UnKnown,0,0,0
+32,Ticino,Switzerland,NotKnown,UnKnown,0,0,0
+32,Geneva,Switzerland,NotKnown,UnKnown,0,0,0
+32,Geneva,Switzerland,NotKnown,UnKnown,0,0,0
+32,Grisons,Switzerland,NotKnown,UnKnown,0,0,0
+32,Grisons,Switzerland,NotKnown,UnKnown,0,0,0
+32,Aargau,Switzerland,NotKnown,UnKnown,0,0,0
+32,Zurich,Switzerland,NotKnown,UnKnown,0,0,0
+32,Vaud,Switzerland,NotKnown,UnKnown,0,0,0
+32,Basal-Stadt,Switzerland,NotKnown,UnKnown,0,0,0
+32,Basal-Stadt,Switzerland,NotKnown,UnKnown,0,0,0
